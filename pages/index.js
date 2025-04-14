@@ -24,7 +24,7 @@ const contractABI = [
   },
 ];
 
-const contractAddress = "0x854bab28e45bf6c06c9802c3f1eadf96bcb1a3eb";
+const contractAddress = "0xf702cfcd51eb764d7ab24f666d21aaab56dc964c";
 const RPC = "https://tea-sepolia.g.alchemy.com/public";
 
 export default function ClickToTxDApp() {
